@@ -1,7 +1,11 @@
 ---
 slug: about
-title: About Hugo
+title: Shevaughn Holness
 ---
+
+I am sophomore at Smith College with a strong interest in the fields of Biology and Data Science. Long term, I am interested in working in the Biology field with a strong base in data analysis while also continuing to explore the intersection between the two fields. Currently, I am looking forward to using my summer to further gain experience in either field through an internship or similar opportunity. Presently, I work in a biology research lab at Smith College, and I have done a handful of data analysis mini-projects. Through those experiences, I know that I thrive in a collaborative team environment. 
+
+
 
 Hugo is a static site engine written in Go.
 
