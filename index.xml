@@ -115,19 +115,6 @@ Follow the following steps:
     </item>
     
     <item>
-      <title>About Hugo</title>
-      <link>/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/about/</guid>
-      <description>Hugo is a static site engine written in Go.
-It makes use of a variety of open source projects including:
- Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
-Setup Some fun facts about Hugo:
- Built in Go Loosely inspired by Jekyll Primarily developed by spf13 on the train while commuting to and from Manhattan. Coded in Vim using spf13-vim  Have questions or suggestions?</description>
-    </item>
-    
-    <item>
       <title>Contact</title>
       <link>/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -163,6 +150,15 @@ pwd </description>
       <guid>/snippets/second/</guid>
       <description>This content is in snippets/second/index.md
 ls -la </description>
+    </item>
+    
+    <item>
+      <title>Shevaughn Holness</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>I am sophomore at Smith College with a strong interest in the fields of Biology and Data Science. Long term, I am interested in working in the Biology field with a strong base in data analysis while also continuing to explore the intersection between the two fields. Currently, I am looking forward to using my summer to further gain experience in either field through an internship or similar opportunity. Presently, I work in a biology research lab at Smith College, and I have done a handful of data analysis mini-projects.</description>
     </item>
     
   </channel>
