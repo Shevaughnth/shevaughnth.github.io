@@ -23,7 +23,7 @@ disqusShortname = "yourdiscussshortname"
     description = "Shevaughn Holness's personal website"
     keywords = "blog,developer,personal"
     info = "Sophomore at Smith College"
-    avatarurl = "images/header.jpg.jpg"
+    avatarurl = "images/header.jpg"
     #gravatar = "john.doe@example.com"
     footercontent = ""
 
